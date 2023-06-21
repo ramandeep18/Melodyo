@@ -1,0 +1,30 @@
+
+body {
+  background-image: url("../images/m1.jpg");
+  background-repeat: cover;
+  opacity=0.2;
+  overflow: hidden;
+  font-family:"Papyrus",cursive;
+  
+}
+
+.transbox {
+  margin-left: 420px;
+  margin-top: 250px;
+  height: 200px;
+  width: 40%;
+  background-color: black;
+  border: none;
+  opacity: 0.6;
+}
+
+.transbox h1,h3 {
+  margin: 25%;
+  font-weight: bold;
+  color:white;
+  
+}
+
+
+
+
